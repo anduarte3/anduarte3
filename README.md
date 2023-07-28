@@ -1,6 +1,10 @@
 ### Hi, I'm André👋
 
+
   Currently working as a Monitoring Technician at Generix Group.
+
+  Learning JavaScript for front-end with React and back-end with Node.js! 🌐💻🚀
+  <a href='https://anduarte3.github.io/MyPortfolio/'>Portfolio</a>
 
 <!--
 **anduarte3/anduarte3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
