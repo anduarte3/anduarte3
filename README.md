@@ -1,6 +1,7 @@
 ### Hi, I'm André👋
 
-
+  <p></p>
+  <p></p>
   Currently working as a Monitoring Technician at Generix Group.
 
   Learning JavaScript for front-end with React and back-end with Node.js! 🌐💻🚀
