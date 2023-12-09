@@ -2,8 +2,6 @@
 
   <p></p>
   <p></p>
-  Currently working as a Monitoring Technician at Generix Group.
-
   Learning JavaScript for front-end with React and back-end with Node.js! 🌐💻🚀
   <p><a href='https://anduarte3.github.io/MyPortfolio/'>Portfolio</a></p>
 
