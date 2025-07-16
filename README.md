@@ -7,7 +7,12 @@ Mostly writing JavaScript and pretending I know what I'm doing.
 
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
@@ -24,4 +29,4 @@ Mostly writing JavaScript and pretending I know what I'm doing.
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anduarte3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=anduarte3&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anduarte3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a ![](https://github-readme-stats.vercel.app/api?username=anduarte3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=anduarte3&theme=dark&hide_border=false)<br/> </a> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anduarte3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
