@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm André
 
-Welcome to my GitHub profile!  
-
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 # 💻 Tech Stack:
