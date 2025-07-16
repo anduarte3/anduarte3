@@ -1,8 +1,13 @@
 ## 👋 Hi there, I'm André
 
 
+Mostly writing JavaScript and pretending I know what I'm doing.
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+
+
+
+
 
 
 
