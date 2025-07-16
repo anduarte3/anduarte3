@@ -1,6 +1,11 @@
 # 👋 Hi there, I'm André
 
+
+
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
